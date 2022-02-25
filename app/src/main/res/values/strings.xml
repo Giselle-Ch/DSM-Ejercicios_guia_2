@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Salarios</string>
+
+    <!--            activity_main               -->
+    <string name="lblTitulo">Cálculo de salario</string>
+    <string name="txtNombre">Ingrese el nombre</string>
+    <string name="txtHoras">Ingrese las horas trabajadas</string>
+    <string name="btnCalcular">Calcular Salario</string>
+
+    <!--        activity_muestra_datos          -->
+    <string name="lblEmpleado">Empleado: </string>
+    <string name="lblHoras">Horas</string>
+    <string name="lblResultados">Resultados</string>
+    <string name="lblDescuentos">Descuentos</string>
+    <string name="lblIsss">ISSS: </string>
+    <string name="lblAfp">AFP: </string>
+    <string name="lblRenta">Renta: </string>
+    <string name="lblSalario">Salario Neto: </string>
+    <string name="btnFinalizar">Finalizar</string>
+</resources>
